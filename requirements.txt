@@ -1,0 +1,16 @@
+beautifulsoup4==4.9.1
+gensim=>=4.2.0
+ipykernel
+jellyfish>=0.9.0
+jupyter>=1.0.0
+matplotlib>=3.5.1
+nltk>=3.7
+pandas>=1.4.2
+polyglot==16.7.4
+requests>=2.27.1
+scipy>=1.8.0
+scikit-learn>=1.0.2
+spacy>=3.0.0,<4.0.0
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0.tar.gz#egg=en_core_web_sm
+en-core-web-md @ https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.0.0/en_core_web_md-3.0.0.tar.gz#egg=en_core_web_md
+tqdm>=4.64.0
